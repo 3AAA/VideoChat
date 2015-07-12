@@ -28,7 +28,6 @@ import com.bairuitech.util.BaseMethod;
 import com.bairuitech.util.ConfigEntity;
 import com.bairuitech.util.ConfigService;
 import com.bairuitech.util.DialogFactory;
-import com.xingren.videochat.R;
 
 public class HallActivity extends Activity implements OnItemClickListener,
 		OnClickListener, AnyChatBaseEvent, AnyChatVideoCallEvent,

@@ -22,7 +22,6 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
-import com.xingren.videochat.R;
 
 public class LoginActivity extends Activity implements AnyChatBaseEvent,
 		 OnClickListener {

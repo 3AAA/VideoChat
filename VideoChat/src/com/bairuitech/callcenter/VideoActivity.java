@@ -32,7 +32,6 @@ import android.widget.TextView;
 import com.bairuitech.anychat.*;
 import com.bairuitech.bussinesscenter.BussinessCenter;
 import com.bairuitech.util.*;
-import com.xingren.videochat.R;
 
 public class VideoActivity extends Activity implements AnyChatBaseEvent,
 		OnClickListener, OnTouchListener, AnyChatVideoCallEvent, AnyChatUserInfoEvent {
